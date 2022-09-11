@@ -25,7 +25,7 @@
   
   ## 💜 Programming 💜
   
-  Currently (9/11/2022), I am proficient in the following programming languages:
+  Currently `(9/11/2022)`, I am proficient in the following programming languages:
   
   **— JavaScript**<br>
   **— TypeScript**<br>
