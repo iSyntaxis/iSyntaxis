@@ -18,10 +18,10 @@
   
   I have a variety of skills, which I will specify below (the order depends on how good I am at it).
   
-  **— Scripting/Programming**<br>
-  **— Designing Interfaces**<br>
-  **— Modeling**<br>
-  **— Translating**<br>
+  **1. Scripting/Programming**<br>
+  **2. Designing Interfaces**<br>
+  **3. Modeling**<br>
+  **4. Translating**<br>
   
   ## 💜 Programming 💜
   
