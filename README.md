@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113288415/189551455-32811707-cd00-4a06-bf71-442699114a42.png" alt="Sandy Stone Banner Image" height="150" />
+  <img src="https://user-images.githubusercontent.com/113288415/196003500-562bf129-4513-4a0b-8d88-60abed151017.png" alt="Sandy Stone Banner Image" height="150" />
   <br>
   <br>
   
