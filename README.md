@@ -6,7 +6,7 @@
   🟪 **Sandy Stone** `(iSyntaxis)` 🟪
   # Hello there!
   
-  My name is iSyntaxis, but you can call me Sandy Stone. I'm glad I've gained enough attention from you to visit my profile. I'm currently someone which interest is to everything related to programming, and other awesome topics.
+  My name is Sandy Stone, but you can call me iSyntaxis. I'm glad I've gained enough attention from you to visit my profile. I'm currently someone which interest is to everything related to programming, and other awesome topics.
   
   **— Name:** Sandy Stone<br>
   **— Usernames:** iSyntaxis / iSyntaxisPlus<br>
