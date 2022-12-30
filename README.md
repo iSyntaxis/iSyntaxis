@@ -20,8 +20,8 @@
   
   **1. Scripting/Programming**<br>
   **2. Designing Interfaces**<br>
-  **3. Modeling**<br>
-  **4. Translating**<br>
+  **3. Translating**<br>
+  **4. Modeling**<br>
   
   ## 💜 Programming 💜
   
